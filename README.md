@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋🏻
 
+- 🔭 I’m currently working on Web3 Decentralized Social Media
+- 👯 I’m looking to collaborate on solving real-time problems for businesses and society
+- 💬 Ask me about Mobile Apps and problem solving
+- 📫 How to reach me: hi@nerdstribe.com
+  
 <!--
 **jeeali/jeeali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
